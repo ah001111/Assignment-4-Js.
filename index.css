@@ -1,0 +1,56 @@
+
+body{
+    background-color: #24353f;  
+}
+
+
+.formm{
+background-color: #24353f;
+
+
+}
+
+h1{
+    color: white;
+    color: #17a2b8;
+}
+
+p{
+    color: white;
+    padding-top: 10px;
+    font-size: 16px;
+
+}
+
+p a{
+    color: white;
+}
+
+input{
+    background-color: #24353f!important;
+    color: #fff !important;
+
+}
+
+input::placeholder {
+    color: rgb(182, 182, 182) !important;
+}
+
+
+.btn-info {
+    --bs-btn-color: #0dcaf0;
+    --bs-btn-bg: #24353f;
+}
+
+.btn-info:hover {
+    --bs-btn-color: #000;
+    --bs-btn-bg: #0dcaf0;
+}
+
+
+.demoo{
+    margin-top: 10rem;
+    margin-left: 10rem;
+    text-align: center;
+    
+}
